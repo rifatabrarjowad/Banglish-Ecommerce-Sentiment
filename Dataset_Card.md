@@ -3,8 +3,9 @@
 **Author:** R. A. Jowad  
 **Year:** 2025  
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**Repository:** [Banglish E-commerce Sentiment](https://github.com/rifatabrarjowad/Banglish-Ecommerce-Sentiment)  
-**Contact:** rifatabrarjowad@gmail.com  
+**Repository:** [Banglish E-commerce Sentiment](https://github.com/rifatabrarjowad/Banglish-Ecommerce-Sentiment) 
+**📂 Dataset File:** [data/banglish_ecommerce_sentiment_v1.csv](data/banglish_ecommerce_sentiment_v1.csv)
+**Contact:** rajdiprifat2004@gmail.com  
 
 ---
 
